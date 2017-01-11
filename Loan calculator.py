@@ -24,4 +24,3 @@ monthlyPayment = (loan * interestRate * (1 + interestRate ) * numberPayments) \
 
 #We print the result with only two decimal
 print("Yout monthly payment will be %.2f" %monthlyPayment)
-
